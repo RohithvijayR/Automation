@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment and Secrets
+.env
+*.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs & Temporary Debug Assets
+logs/
+*.png
+*.jpg
+*.jpeg
+attendance_results_*.json
+debug_output.txt
+memory.json
+models.txt
+n {.txt
+temp_test_npm/
